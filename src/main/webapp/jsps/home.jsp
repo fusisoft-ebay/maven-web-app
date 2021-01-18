@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation Engineering</h1>
-<h1 align="center">Landmark is doing a great job in raising quality engineers</h1>
+<h1 align="center">Prof. Legah is a genius, thank you for the excellent content</h1
 <h1 align="center"> Welcome to Landmark Technology.......We have a class on DevOps E Degree with Linux and AWS Sunday,January 17, 2020 at 7pm CST for class 22. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
 	</h1>
@@ -18,7 +18,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/LT.JPG" alt="" width="300">
+		<img src="images/LT.JPG" alt="" width="350">
 	</span>
 	<span style="font-weight: bold;">
 		Landmark Technology, 
