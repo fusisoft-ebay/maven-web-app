@@ -3,4 +3,4 @@
   become: true
   tasks: 
   - name: "Deploying application to target nodes"
-    command: kubectl apply -f deploy.yaml
+    command: kubectl apply -f deploy.yml
