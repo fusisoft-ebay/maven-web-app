@@ -1,6 +1,6 @@
 ---
 - hosts: webservers
   become: true
-  - tasks: 
-    name: "Deploying application to target nodes"
+  tasks: 
+  - name: "Deploying application to target nodes"
     command: kubectl apply -f deploy.yaml
