@@ -21,7 +21,7 @@
 		<img src="images/LT.JPG" alt="" width="350">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
+		Asasoft Technology, 
 		Toronto, Ontario, Canada
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
@@ -34,7 +34,7 @@
 <hr>
 <hr>
 <p align=center>Asasoft Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Asasoft Technologies</a> </small></p>
 
 </body>
 </html>
